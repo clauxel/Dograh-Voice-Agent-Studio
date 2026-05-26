@@ -1,0 +1,11 @@
+# Dograh Voice Agent Studio
+
+Dograh Voice Agent Studio is a SaaS workspace for Dograh.
+
+Website: https://dograhvoice.space/
+Docs pattern reference: https://github.com/clauxel/MiroFish
+Primary keyword: Dograh
+Type: SaaS
+Default plan: team
+
+Public boundary: docs-only repository; no production source code or secrets.
